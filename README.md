@@ -21,7 +21,7 @@ A simple Java-based Hotel Reservation System that manages room availability, cus
 - Customer details management
 - Menu-driven console interface
 - 
-🛠️ Technologies Used
+ Technologies Used
 - Java
 - Object-Oriented Programming (OOP)
 - ArrayList
