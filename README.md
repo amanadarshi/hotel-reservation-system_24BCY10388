@@ -10,9 +10,9 @@ Course: Java Programming
 University: VIT Bhopal University
 
 
-📌 Project Description
+ Project Description
 A simple Java-based Hotel Reservation System that manages room availability, customer details, room booking, reservations, and cancellation.
-✨ Features
+ Features
 
 - View available rooms
 - Book a room
